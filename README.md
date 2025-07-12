@@ -1,12 +1,13 @@
 <!-- Archit Pandey GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Archit+Pandey+👋;Frontend+Developer+⚛️;Learning+MERN+Stack+🚀;JavaScript+%7C+React+%7C+Tailwind+CSS" alt="Typing SVG" />
-</h1>
+<!-- Typing SVG Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Archit+Pandey+👋;Frontend+Developer+⚛️;Learning+MERN+Stack+🚀;JavaScript+%7C+React+%7C+Tailwind+CSS" alt="Typing Intro" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Learning-MERN%20Stack-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Learner-brightgreen?style=for-the-badge&logo=node.js" />
 </p>
 
 ---
@@ -18,18 +19,23 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Top Projects
+## 📌 Highlighted Projects
 
-- ⚡ **Portfolio Website** — Built using React & Tailwind CSS.  
-- ✅ **TaskMate** — A beautiful Todo app with theme toggle and localStorage.  
-- 🗒️ **Notes API** — A CRUD API with Express and MongoDB.  
-- 🎨 **Color Picker** — Quick utility tool for hex/RGB/preview.
+<p align="center">
+  <b>🚀 Portfolio Website</b> — React & Tailwind-based clean portfolio  
+  <br />
+  <b>📝 TaskMate</b> — A beautiful Todo app with theme toggle  
+  <br />
+  <b>📂 Notes API</b> — Express + MongoDB CRUD API  
+  <br />
+  <b>🎨 Color Picker</b> — Simple dev tool for choosing colors  
+</p>
 
 ---
 
@@ -56,7 +62,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/architpandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://architpandey.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -67,20 +73,34 @@
 
 ## 🚧 Currently
 
-- 🔧 **Working on**: Full-stack React apps  
-- 📖 **Learning**: MongoDB & Express.js deeper  
-- 😄 **Fun Fact**: I love debugging like a puzzle 🧩
+<p align="center">
+  <b>🔧 Working on:</b> Full-stack React apps  
+  <br />
+  <b>📖 Learning:</b> MongoDB, Express.js, APIs  
+  <br />
+  <b>😄 Fun Fact:</b> I debug things like puzzles 🧩  
+</p>
 
 ---
 
-## 🧠 Quote
+## 💬 Quote
 
-> “First, solve the problem. Then, write the code.” — John Johnson
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/architpandey/architpandey/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/architpandey/architpandey/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
 </p>
 
 
