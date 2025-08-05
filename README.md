@@ -1,15 +1,18 @@
 
-
 # 👋 Welcome to My Digital Universe!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Archit%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=20" />
 </div>
 
+---
+
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<table>
+  <tr>
+    <td>
+      
 ```javascript
 const archit = {
     name: "Archit Pandey",
@@ -25,48 +28,102 @@ const archit = {
     passion: "Building user-centric applications",
     funFact: "I debug like Sherlock Holmes but forget semicolons like Mr. Bean! 🕵️‍♂️"
 };
-```
+````
 
+  </td>
+  <td>
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" alt="Coding" />
+  </td>
+</tr>
+</table>
+
+---
+
+## 💻 Frontend Development
 
 <div align="center">
 
-### 💻 Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 </div>
+
+---
+
+## 🔧 Backend & Database
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+</div>
+
+---
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<th>🎯 Project</th>
+<th>💻 Tech Stack</th>
+<th>🌐 Live Demo</th>
+<th>📝 Description</th>
+</tr>
+<tr>
+<td>🌟 Portfolio Website</td>
+<td>React, Tailwind CSS, Framer Motion</td>
+<td>[View Live](https://architpandey.vercel.app)</td>
+<td>Modern, responsive portfolio with smooth animations</td>
+</tr>
+<tr>
+<td>✅ TaskMate Pro</td>
+<td>React, Context API, LocalStorage</td>
+<td>Coming Soon</td>
+<td>Advanced todo app with themes, categories & analytics</td>
+</tr>
+<tr>
+<td>📝 Notes API</td>
+<td>Node.js, Express, MongoDB</td>
+<td>[GitHub](https://github.com/architpandey)</td>
+<td>RESTful API with authentication & CRUD operations</td>
+</tr>
+<tr>
+<td>🎨 Color Palette Generator</td>
+<td>Vanilla JS, CSS3</td>
+<td>Coming Soon</td>
+<td>Generate beautiful color schemes for designers</td>
+</tr>
+<tr>
+<td>🛒 E-Commerce Dashboard</td>
+<td>React, Chart.js, Mock API</td>
+<td>Coming Soon</td>
+<td>Admin panel with data visualization</td>
+</tr>
+</table>
 
-| 🎯 Project | 💻 Tech Stack | 🌐 Live Demo | 📝 Description |
-|------------|---------------|--------------|-----------------|
-| **🌟 Portfolio Website** | React, Tailwind CSS, Framer Motion | [View Live](https://architpandey.vercel.app) | Modern, responsive portfolio with smooth animations |
-| **✅ TaskMate Pro** | React, Context API, LocalStorage | [View Live](#) | Advanced todo app with themes, categories & analytics |
-| **📝 Notes API** | Node.js, Express, MongoDB | [GitHub](https://github.com/architpandey) | RESTful API with authentication & CRUD operations |
-| **🎨 Color Palette Generator** | Vanilla JS, CSS3 | [View Live](#) | Generate beautiful color schemes for designers |
-| **🛒 E-Commerce Dashboard** | React, Chart.js, Mock API | [View Live](#) | Admin panel with data visualization |
-
-</div>
+---
 
 ## 📊 GitHub Analytics
 
@@ -83,9 +140,9 @@ const archit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=architpandey&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-## 🎯 Current Focus
+---
 
-<div align="center">
+## 🎯 Current Focus
 
 ```mermaid
 graph TD
@@ -100,20 +157,22 @@ graph TD
     E --> I[📲 Progressive Web Apps]
 ```
 
-</div>
+---
 
 ## 🏅 Achievements & Certifications
 
 <div align="center">
-  
-| 🏆 Achievement | 📅 Date | 🎯 Details |
-|----------------|----------|------------|
-| **🌟 100 Days of Code** | 2024 | Consistent coding streak |
-| **⚛️ React Certification** | 2024 | Advanced React concepts |
-| **🎨 Frontend Mentor** | 2024 | Multiple challenge completions |
-| **📊 GitHub Arctic Code Vault** | 2023 | Contributor to preserved repositories |
+
+| 🏆 Achievement         | 📅 Date | 🎯 Details                            |
+| ---------------------- | ------- | ------------------------------------- |
+| 🌟 100 Days of Code    | 2024    | Consistent coding streak              |
+| ⚛️ React Certification | 2024    | Advanced React concepts               |
+| 🎨 Frontend Mentor     | 2024    | Multiple challenge completions        |
+| 🧊 Arctic Code Vault   | 2023    | Contributor to preserved repositories |
 
 </div>
+
+---
 
 ## 📈 Coding Activity
 
@@ -126,44 +185,33 @@ graph TD
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=architpandey&theme=tokyonight" />
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architpandey@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/architpandey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://architpandey.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/architpandey)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/architpandey)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:architpandey@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/architpandey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://architpandey.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/architpandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/architpandey)
 
 </div>
 
-## 📚 Latest Blog Posts
-
-<div align="center">
-
-| 📝 Title | 📅 Date | 🔗 Link |
-|----------|----------|---------|
-| **Understanding React Hooks** | Dec 2024 | [Read More](#) |
-| **Building REST APIs with Express** | Nov 2024 | [Read More](#) |
-| **CSS Grid vs Flexbox** | Oct 2024 | [Read More](#) |
-
-</div>
+---
 
 ## 💭 Developer Quotes
 
 <div align="center">
-  
-> *"First, solve the problem. Then, write the code."*  
-> **– John Johnson**
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> **– Cory House**
-
-> *"The best error message is the one that never shows up."*  
-> **– Thomas Fuchs**
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+> *"The best error message is the one that never shows up."* — **Thomas Fuchs**
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -171,11 +219,15 @@ graph TD
   <img src="https://raw.githubusercontent.com/architpandey/architpandey/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 🎵 Spotify Playing
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 </div>
+
+---
 
 ## 📊 Weekly Development Breakdown
 
@@ -187,25 +239,27 @@ HTML         30 mins         ██░░░░░░░░░░░░░░░
 Other        12 mins         █░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
+---
+
 ## 🎯 2025 Goals
 
-<div align="center">
+* [ ] 🚀 Master Next.js and TypeScript
+* [ ] 🌱 Contribute to 5 open-source projects
+* [ ] 📱 Build and deploy 3 full-stack applications
+* [ ] 📝 Write 12 technical blog posts
+* [ ] 🏆 Earn 3 new certifications
+* [ ] 🤝 Mentor 2 junior developers
+* [ ] ☁️ Learn cloud platforms (AWS/GCP)
 
-- [ ] 🚀 Master Next.js and TypeScript
-- [ ] 🌱 Contribute to 5 open-source projects  
-- [ ] 📱 Build and deploy 3 full-stack applications
-- [ ] 📝 Write 12 technical blog posts
-- [ ] 🏆 Earn 3 new certifications
-- [ ] 🤝 Mentor 2 junior developers
-- [ ] 🌐 Learn cloud platforms (AWS/GCP)
-
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=architpandey&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
+
+---
 
 ## 📈 Profile Views
 
@@ -217,9 +271,11 @@ Other        12 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-  ### ⭐ From [Archit Pandey](https://github.com/architpandey) with 💙
-  
-  *"Building the future, one commit at a time"* 🚀
+  <br />
+  <h3>⭐ From <a href="https://github.com/architpandey">Archit Pandey</a> with 💙</h3>
+  <p><em>"Building the future, one commit at a time"</em> 🚀</p>
 </div>
+```
+
+
 
