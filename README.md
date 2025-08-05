@@ -27,9 +27,6 @@ const archit = {
 };
 ```
 
-<br clear="right"/>
-
-## 🚀 Tech Arsenal
 
 <div align="center">
 
