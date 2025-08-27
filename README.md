@@ -165,7 +165,6 @@ graph TD
 ---
 
 ## 🌐 Connect With Me
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](archit.pandey0007@gmail.com)
@@ -210,7 +209,6 @@ Other        12 mins         █░░░░░░░░░░░░░░░░
 
 
 ## 📈 Profile Views
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=architpandey&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 </div>
