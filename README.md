@@ -62,48 +62,6 @@ const archit = {
 
 ---
 
-## 🏆 Featured Projects
-
-<table align="center">
-<tr>
-<th>🎯 Project</th>
-<th>💻 Tech Stack</th>
-<th>🌐 Live Demo</th>
-<th>📝 Description</th>
-</tr>
-<tr>
-<td>🌟 Portfolio Website</td>
-<td>React, Tailwind CSS, Framer Motion</td>
-<td>[View Live](https://architpandey.vercel.app)</td>
-<td>Modern, responsive portfolio with smooth animations</td>
-</tr>
-<tr>
-<td>✅ TaskMate Pro</td>
-<td>React, Context API, LocalStorage</td>
-<td>Coming Soon</td>
-<td>Advanced todo app with themes, categories & analytics</td>
-</tr>
-<tr>
-<td>📝 Notes API</td>
-<td>Node.js, Express, MongoDB</td>
-<td>[GitHub](https://github.com/architpandey)</td>
-<td>RESTful API with authentication & CRUD operations</td>
-</tr>
-<tr>
-<td>🎨 Color Palette Generator</td>
-<td>Vanilla JS, CSS3</td>
-<td>Coming Soon</td>
-<td>Generate beautiful color schemes for designers</td>
-</tr>
-<tr>
-<td>🛒 E-Commerce Dashboard</td>
-<td>React, Chart.js, Mock API</td>
-<td>Coming Soon</td>
-<td>Admin panel with data visualization</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
