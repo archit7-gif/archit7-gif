@@ -169,8 +169,6 @@ graph TD
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <div align="center">
   <a href="mailto:Archit.pandey0007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
