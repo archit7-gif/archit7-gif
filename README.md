@@ -9,10 +9,10 @@
 
 ## 🧭 About Me
 
-I’m a MERN stack developer focused on building **reliable backend systems** and integrating them with **clean, functional frontends**.  
-I enjoy working on APIs, authentication flows, databases, and real-time features — while also handling frontend implementation to deliver complete, usable products.
+I’m a MERN stack developer who builds production-ready web applications end-to-end. From architecting REST APIs and databases to implementing authentication, real-time features, and responsive UIs, I focus on creating fast, reliable, and maintainable solutions.
 
-I’m currently looking for **internship opportunities** where I can contribute to real production-style applications and grow as a full-stack engineer.
+I’m currently seeking an internship where I can work on real-world products, collaborate with experienced engineers, and grow into a stronger full-stack developer while delivering real value to the team.
+
 
 ---
 
@@ -32,6 +32,7 @@ const archit = {
 ### 🔹 Cognify — Real-Time AI Chat with Memory
 
 **Live:** [https://cognify-taupe.vercel.app](https://cognify-taupe.vercel.app)
+<Br/>
 **Repo:** [https://github.com/archit7-gif/Cognify](https://github.com/archit7-gif/Cognify)
 
 **What it does**
@@ -54,6 +55,7 @@ Node.js · Express.js · MongoDB · Socket.IO · Pinecone · Google Gemini · Re
 ### 🔹 Job-Scribe — AI Resume Analyzer & Job Tracker
 
 **Live:** [https://job-scribe-neon.vercel.app](https://job-scribe-neon.vercel.app)
+<Br/>
 **Repo:** [https://github.com/archit7-gif/JOB-SCRIBE](https://github.com/archit7-gif/JOB-SCRIBE)
 
 **What it does**
@@ -83,20 +85,21 @@ Node.js · Express.js · MongoDB · JWT · React · Redux Toolkit · AI API inte
 * Authentication (JWT, cookies, bcrypt)
 * Real-time communication (Socket.IO)
 * Caching & rate-limiting concepts
-* API security & request validation
+
 
 ### Frontend
+* React (functional components, hooks, component composition)
+* Redux Toolkit (state slices, async actions, predictable data flow)
+* Responsive UI implementation across devices
+* Component structuring aligned with data flow and user interaction
 
-* React (hooks, component architecture)
-* Redux Toolkit (state management)
-* Tailwind CSS (responsive UI)
-* Basic UX-focused component structuring
 
 ### Tools & Workflow
 
 * Git & GitHub
 * Postman
 * Vercel
+* Render 
 * Environment configuration & deployment basics
 
 > I work across the full stack, with more time spent designing backend logic and data flow, and frontend implementation used to complete and validate real use cases.
@@ -130,15 +133,16 @@ Node.js · Express.js · MongoDB · JWT · React · Redux Toolkit · AI API inte
 
 ```mermaid
 graph TD
-  A[Current Focus] --> B[Backend Architecture]
-  A --> C[Auth & Security]
-  A --> D[Realtime Systems]
-  A --> E[Frontend Integration]
+  A[🎯 Current Focus] --> B[Backend Performance & Scalability]
+  A --> C[Secure & Maintainable Auth Systems]
+  A --> D[Production Deployment & DevOps Basics]
+  A --> E[Data Handling & Query Optimization]
 
-  B --> F[Clean APIs]
-  C --> G[JWT & Cookies]
-  D --> H[Socket.IO]
-  E --> I[React + Redux]
+  B --> F[Redis Caching, Rate Limiting]
+  C --> G[JWT Lifecycle, Refresh Tokens, Role-Based Access]
+  D --> H[Docker, CI/CD Pipelines, Cloud Deployment]
+  E --> I[MongoDB Aggregation Pipelines, Indexing]
+
 ```
 
 ---
@@ -149,7 +153,6 @@ graph TD
 * Authentication & authorization strategies
 * MongoDB schema modeling and query patterns
 * Real-time messaging systems
-* Using embeddings and vector databases for AI memory
 * Trade-offs between performance, simplicity, and scalability
 
 ---
@@ -178,9 +181,9 @@ graph TD
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
+  <br/>
   <p><em>Building real systems — learning by shipping.</em></p>
 </div>
-```
 
 
 
