@@ -16,7 +16,7 @@
 
 ## About
 
-I build full-stack MERN applications — designing the API layer, wiring up authentication, managing data flow, and integrating third-party services and AI to solve real problems. I care about writing code that is secure, maintainable, and works reliably — not just locally, but in production.
+Full-stack developer building production-ready applications with the MERN stack, focused on clean architecture, scalable systems, and reliable API design. Experienced in integrating modern APIs and AI services while designing systems that remain maintainable, secure, and resilient under real-world usage.
 
 Every project I ship teaches me something about what it actually takes to build software that holds up.
 
