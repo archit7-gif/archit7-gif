@@ -16,15 +16,15 @@
 
 ## About
 
-Full-stack developer building production-ready MERN applications — from REST API architecture and authentication systems to async job processing and AI integrations. I focus on the backend layer: event-driven design, secure APIs, scalable data flow, and systems that hold up under real-world conditions.
+I build full-stack MERN applications — designing the API layer, wiring up authentication, managing data flow, and integrating third-party services and AI to solve real problems. I care about writing code that is secure, maintainable, and works reliably — not just locally, but in production.
 
-Currently exploring Docker, CI/CD pipelines, and distributed system patterns to push what I build closer to production-grade infrastructure.
+Every project I ship teaches me something about what it actually takes to build software that holds up.
 
 ```js
 const archit = {
   stack:     ["Node.js", "Express", "MongoDB", "React"],
-  focus:     "Backend systems, API design, event-driven architecture",
-  strengths: ["Async processing", "Auth & security", "AI integrations", "Webhook systems"],
+  focus:     "API design, auth systems, scalable data flow, AI integrations",
+  strengths: ["Building things end-to-end", "Security & reliability", "Solving real problems with code"],
   currently: "Building systems. Shipping code. Learning by doing."
 };
 ```
@@ -34,21 +34,17 @@ const archit = {
 ## Featured Projects
 
 ### PR Lens — AI-Powered Pull Request Reviewer
-> Automates PR feedback for engineering teams using AI-assisted code analysis integrated directly into GitHub.
+> A GitHub App that analyzes pull request diffs using AI and delivers structured code review insights to a developer dashboard — built to assist the review process, not replace it.
 
 **Live:** [github-buddy.vercel.app](https://github-buddy.vercel.app) &nbsp;|&nbsp; **Repo:** [archit7-gif/GITHUB-BUDDY](https://github.com/archit7-gif/GITHUB-BUDDY)
 
-**What it does**
-
-PR Lens is a GitHub App that listens for pull request events, analyzes code diffs using AI, and delivers structured review insights to a developer dashboard. AI reviews are never posted automatically — every review goes through a developer-controlled pipeline before reaching GitHub.
-
 **Key implementations**
 
-- Webhook ingestion with **immediate HTTP 200 response** and async job queuing via **Redis** — keeping handlers fast and the system resilient
-- **Human-in-the-loop publishing pipeline**: pending → approved → published, giving developers full control before feedback reaches GitHub via the Apps API
-- **Commit-aware job deduplication** using PR ID + commit SHA — each unique code change is processed exactly once regardless of repeated webhook deliveries
-- **Short-term review context** retained per PR to reduce repeated suggestions and keep feedback consistent across multiple commits
-- Security hardened with **GitHub webhook signature verification**, scoped App permissions, and short-lived JWT sessions
+- Designed an async job processing system that decouples GitHub event ingestion from AI analysis — keeping the system fast and resilient under load
+- **Human-in-the-loop publishing pipeline**: pending → approved → published, giving developers full control before any feedback is posted back to GitHub
+- **Commit-aware job deduplication** using PR ID + commit SHA — guaranteeing each unique code change is processed exactly once
+- **Short-term review context** retained per PR so feedback stays consistent and non-repetitive across multiple commits
+- Secured end-to-end with request signature verification, scoped permissions, and short-lived JWT sessions
 
 **Tech Stack**
 
@@ -57,20 +53,16 @@ PR Lens is a GitHub App that listens for pull request events, analyzes code diff
 ---
 
 ### JobScribe — AI Resume Optimizer & Job Tracker
-> Helps job seekers analyze resume-job fit and manage their entire application pipeline from one place.
+> Analyzes resumes against job descriptions using AI and combines it with a full job application tracker — solving resume quality and application management in one place.
 
 **Live:** [job-scribe-neon.vercel.app](https://job-scribe-neon.vercel.app) &nbsp;|&nbsp; **Repo:** [archit7-gif/JOB-SCRIBE](https://github.com/archit7-gif/JOB-SCRIBE)
 
-**What it does**
-
-JobScribe sends resumes and job descriptions to the Google Gemini API and returns a structured match score, missing keywords, and section-wise improvement suggestions. Built alongside a job application tracker so users can manage their entire search in one place.
-
 **Key implementations**
 
-- **AI resume analysis** — match score (0–100%), missing keywords, section-wise feedback via Google Gemini API
-- **AI response caching** to reduce redundant API calls and prevent rate-limit exhaustion under concurrent load
+- **AI resume analysis** — match score (0–100%), missing keywords, and section-wise feedback via Google Gemini API
+- **Response caching** to eliminate redundant AI calls and stay within rate limits under concurrent usage
 - **Job application tracker** with Saved → Applied → Interview → Offer/Rejected status pipeline
-- Backend secured with **JWT authentication**, bcrypt, **RBAC**, and request rate limiting
+- Backend secured with **JWT authentication**, bcrypt password hashing, **RBAC**, and request rate limiting
 
 **Tech Stack**
 
@@ -79,7 +71,7 @@ JobScribe sends resumes and job descriptions to the Google Gemini API and return
 ---
 
 ### Cognify — Real-Time AI Chat with Semantic Memory
-> Real-time chat application with persistent AI memory across sessions using vector search.
+> Real-time chat application where AI remembers past conversations using vector search — keeping context alive across sessions.
 
 **Live:** [cognify-taupe.vercel.app](https://cognify-taupe.vercel.app) &nbsp;|&nbsp; **Repo:** [archit7-gif/Cognify](https://github.com/archit7-gif/Cognify)
 
@@ -87,8 +79,8 @@ JobScribe sends resumes and job descriptions to the Google Gemini API and return
 
 - Real-time bi-directional messaging via **Socket.IO**
 - Message embeddings via **Google Gemini**, semantic memory stored and queried through **Pinecone**
-- Synchronized deletion between MongoDB and Pinecone for consistent data state
-- Secure auth with **JWT + httpOnly cookies**
+- Synchronized deletion between MongoDB and Pinecone to maintain consistent data state
+- Secure authentication with **JWT + httpOnly cookies**
 
 **Tech Stack**
 
@@ -98,21 +90,24 @@ JobScribe sends resumes and job descriptions to the Google Gemini API and return
 
 ## Technical Skills
 
-### Backend
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square)
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -120,9 +115,10 @@ JobScribe sends resumes and job descriptions to the Google Gemini API and return
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ### Engineering Practices
-`RBAC` · `Rate Limiting` · `Caching` · `Webhook Systems` · `Async Processing` · `API Design` · `Security Hardening` · `Performance Optimization`
+`API Design` &nbsp;·&nbsp; `Authentication & Authorization` &nbsp;·&nbsp; `RBAC` &nbsp;·&nbsp; `Rate Limiting` &nbsp;·&nbsp; `Caching` &nbsp;·&nbsp; `Security Hardening` &nbsp;·&nbsp; `Async Processing` &nbsp;·&nbsp; `Performance Optimization`
 
 ---
 
@@ -142,10 +138,10 @@ JobScribe sends resumes and job descriptions to the Google Gemini API and return
 ## Current Focus
 
 ```
-Docker & CI/CD          →  Containerizing apps and automating deployment pipelines
-Redis & Caching         →  Optimizing API performance at scale
+Docker & CI/CD          →  Containerizing apps, automating deployment pipelines
+Redis & Caching         →  API performance optimization at scale
 MongoDB Aggregation     →  Complex data pipelines and query optimization
-Distributed Systems     →  Reliability, consistency, and event-driven design patterns
+Distributed Systems     →  Reliability, consistency, and scalable architecture patterns
 ```
 
 ---
